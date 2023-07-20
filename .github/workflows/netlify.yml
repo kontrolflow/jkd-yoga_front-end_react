@@ -14,6 +14,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+        CI: ""
+
     strategy:
       matrix:
         node-version: [18.x]
@@ -47,3 +50,5 @@ jobs:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
       run: netlify deploy --prod
+
+    #   Test Change
