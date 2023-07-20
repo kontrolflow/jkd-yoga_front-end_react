@@ -1,0 +1,42 @@
+{
+    "name": "JKD Yoga",
+    "short_name": "JKD Yoga",
+    "start_url": ".",
+    "display": "standalone",
+    "scope" : "/",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "assets/img/icons/72.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/icons/128.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/icons/144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/icons/152.png",
+            "type": "image/png",
+            "sizes": "152x152",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/icons/512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
