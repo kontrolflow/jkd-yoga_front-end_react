@@ -58,7 +58,7 @@ function Home() {
 
             <div class="header-large-title">
                 <h1 class="title">JKD Yoga</h1>
-                <h4 class="subtitle">Teaching the combined principles and applications of Yoga - Martial Arts - Flow Arts- Exercise</h4>
+                <h4 class="subtitle">Teaching a blend of Yoga, Flow Arts, Martial Arts and Exercise woven together by the principles of Jeet Kune Do</h4>
             </div>
 
             
